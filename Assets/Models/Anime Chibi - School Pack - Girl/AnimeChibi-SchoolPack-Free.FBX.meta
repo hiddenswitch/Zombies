@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: efc43069ed6dec94eaa0707237b9a394
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Base Human
+    100004: Base HumanHead
+    100006: Base HumanLCalf
+    100008: Base HumanLCollarbone
+    100010: Base HumanLDigit11
+    100012: Base HumanLDigit11 1
+    100014: Base HumanLDigit12
+    100016: Base HumanLDigit13
+    100018: Base HumanLDigit21
+    100020: Base HumanLDigit22
+    100022: Base HumanLDigit23
+    100024: Base HumanLDigit31
+    100026: Base HumanLDigit32
+    100028: Base HumanLDigit33
+    100030: Base HumanLDigit41
+    100032: Base HumanLDigit42
+    100034: Base HumanLDigit43
+    100036: Base HumanLDigit51
+    100038: Base HumanLDigit52
+    100040: Base HumanLDigit53
+    100042: Base HumanLFoot
+    100044: Base HumanLForearm
+    100046: Base HumanLPalm
+    100048: Base HumanLPlatform
+    100050: Base HumanLThigh
+    100052: Base HumanLUpperarm
+    100054: Base HumanNeck1
+    100056: Base HumanNeck2-x
+    100058: Base HumanPelvis
+    100060: Base HumanRCalf
+    100062: Base HumanRCollarbone
+    100064: Base HumanRDigit11
+    100066: Base HumanRDigit11 1
+    100068: Base HumanRDigit12
+    100070: Base HumanRDigit13
+    100072: Base HumanRDigit21
+    100074: Base HumanRDigit22
+    100076: Base HumanRDigit23
+    100078: Base HumanRDigit31
+    100080: Base HumanRDigit32
+    100082: Base HumanRDigit33
+    100084: Base HumanRDigit41
+    100086: Base HumanRDigit42
+    100088: Base HumanRDigit43
+    100090: Base HumanRDigit51
+    100092: Base HumanRDigit52
+    100094: Base HumanRDigit53
+    100096: Base HumanRFoot
+    100098: Base HumanRForearm
+    100100: Base HumanRibcage
+    100102: Base HumanRPalm
+    100104: Base HumanRPlatform
+    100106: Base HumanRThigh
+    100108: Base HumanRUpperarm
+    100110: Base HumanSkirt1
+    100112: Base HumanSkirt10
+    100114: Base HumanSkirt11
+    100116: Base HumanSkirt12
+    100118: Base HumanSkirt13
+    100120: Base HumanSkirt14
+    100122: Base HumanSkirt2
+    100124: Base HumanSkirt3
+    100126: Base HumanSkirt4
+    100128: Base HumanSkirt5
+    100130: Base HumanSkirt6
+    100132: Base HumanSkirt7
+    100134: Base HumanSkirt8
+    100136: Base HumanSkirt9
+    100138: Base HumanSpine1
+    100140: Base HumanSpine2
+    100142: Base HumanSpine3-x
+    100144: GIRL_BODY_02
+    100146: GIRL_HAIR_02
+    400000: //RootNode
+    400002: Base Human
+    400004: Base HumanHead
+    400006: Base HumanLCalf
+    400008: Base HumanLCollarbone
+    400010: Base HumanLDigit11
+    400012: Base HumanLDigit11 1
+    400014: Base HumanLDigit12
+    400016: Base HumanLDigit13
+    400018: Base HumanLDigit21
+    400020: Base HumanLDigit22
+    400022: Base HumanLDigit23
+    400024: Base HumanLDigit31
+    400026: Base HumanLDigit32
+    400028: Base HumanLDigit33
+    400030: Base HumanLDigit41
+    400032: Base HumanLDigit42
+    400034: Base HumanLDigit43
+    400036: Base HumanLDigit51
+    400038: Base HumanLDigit52
+    400040: Base HumanLDigit53
+    400042: Base HumanLFoot
+    400044: Base HumanLForearm
+    400046: Base HumanLPalm
+    400048: Base HumanLPlatform
+    400050: Base HumanLThigh
+    400052: Base HumanLUpperarm
+    400054: Base HumanNeck1
+    400056: Base HumanNeck2-x
+    400058: Base HumanPelvis
+    400060: Base HumanRCalf
+    400062: Base HumanRCollarbone
+    400064: Base HumanRDigit11
+    400066: Base HumanRDigit11 1
+    400068: Base HumanRDigit12
+    400070: Base HumanRDigit13
+    400072: Base HumanRDigit21
+    400074: Base HumanRDigit22
+    400076: Base HumanRDigit23
+    400078: Base HumanRDigit31
+    400080: Base HumanRDigit32
+    400082: Base HumanRDigit33
+    400084: Base HumanRDigit41
+    400086: Base HumanRDigit42
+    400088: Base HumanRDigit43
+    400090: Base HumanRDigit51
+    400092: Base HumanRDigit52
+    400094: Base HumanRDigit53
+    400096: Base HumanRFoot
+    400098: Base HumanRForearm
+    400100: Base HumanRibcage
+    400102: Base HumanRPalm
+    400104: Base HumanRPlatform
+    400106: Base HumanRThigh
+    400108: Base HumanRUpperarm
+    400110: Base HumanSkirt1
+    400112: Base HumanSkirt10
+    400114: Base HumanSkirt11
+    400116: Base HumanSkirt12
+    400118: Base HumanSkirt13
+    400120: Base HumanSkirt14
+    400122: Base HumanSkirt2
+    400124: Base HumanSkirt3
+    400126: Base HumanSkirt4
+    400128: Base HumanSkirt5
+    400130: Base HumanSkirt6
+    400132: Base HumanSkirt7
+    400134: Base HumanSkirt8
+    400136: Base HumanSkirt9
+    400138: Base HumanSpine1
+    400140: Base HumanSpine2
+    400142: Base HumanSpine3-x
+    400144: GIRL_BODY_02
+    400146: GIRL_HAIR_02
+    2300000: GIRL_HAIR_02
+    3300000: GIRL_HAIR_02
+    4300000: GIRL_BODY_02
+    4300002: GIRL_HAIR_02
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: GIRL_BODY_02
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 
